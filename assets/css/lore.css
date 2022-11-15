@@ -1,0 +1,178 @@
+.imglore{
+    margin-left: -6%;
+}
+
+@font-face {
+    font-family: berserk;
+    src: url(../font/Berserker-Regular.woff);
+}
+
+
+
+.maincontentdiv{
+    width: 95%;
+    height: 300vh;
+    margin-left: 5%;
+}
+
+.charactersdiv{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../img/kr.jpg);
+}
+
+.weaponsdiv{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/assets/img/helheim.jpg);
+}
+
+.enemiesdiv{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/assets/img/mmm.jpg);
+}
+.maincontentdivh{
+    position: absolute;
+    margin-left: 47%;
+    font-family: berserk;
+    padding-top: 3%;
+    color:  white;
+    
+
+}
+
+.kratosloreimg{
+    
+    width: 220%;
+}
+
+.kratosloreimgdiv{
+    position: absolute;
+    margin-left: 58%;
+    padding-top: -55%;
+    width: 16%;
+    margin-top: -15%;
+}
+
+.kratostext{
+    width: 65%;
+    color: whitesmoke;
+    font-size: 107%;
+    padding-top: 12%;
+    padding-left: 15%;
+    font-family: berserk;
+}
+
+.atreus{
+    width: 100%;
+    height: 35vh;
+    margin-top: 6%;
+}
+
+.atreustext{
+    width: 52%;
+    margin-left: 42%;
+    padding-top: 1%;
+    margin-top: 3%;
+    font-family: berserk;
+    color: whitesmoke;
+    font-size: 105%;
+}
+
+.atreusimg{
+    margin-top: -16.7%;
+    margin-left: 15%;
+}
+.weaponsh1{
+    font-family: berserk;
+    margin-left: 50%;
+    padding-top: 2%;
+    color: white;
+}
+
+
+.weapon1text{
+    color: whitesmoke;
+    width: 56%;
+    margin-left: 14.5%;
+    padding-top: 3%;
+    font-size: 104%;
+    font-family: berserk;
+}
+
+.weapon1img{
+    margin-left: 75%;
+    margin-top: -15%;
+
+}
+
+.blade{
+    width: 70%;
+}
+
+.levi{
+    width: 18%;
+}
+
+.weapon2img{
+    margin-left: 15%;
+    margin-top: -25%;
+}
+
+.weapon2text{
+    color: whitesmoke;
+    font-family: berserk;
+    font-size: 104%;
+    width: 60%;
+    margin-left: 35%;
+    padding-top: 3%;
+}
+
+.h3blade{
+    color: cyan;
+}
+
+.freyatext{
+    width: 60%;
+    font-family: berserk;
+    color: white;
+    margin-left: 37%;
+    font-size: 125%;
+    padding-top: 3%;
+}
+
+.freyapng{
+    width: 15%;
+}
+
+.freyaimg{
+    margin-left: 14%;
+    margin-top: -18%;
+
+}
+
+.thortext{
+    color: white;
+    font-family: berserk;
+    width: 65%;
+    margin-left: 15%;
+    padding-top: 3%;
+    font-size: 125%;
+}
+
+.thorpng{
+    width: 95%;
+}
+
+.thorimg{
+    margin-left: 85%;
+    margin-top: -19%;
+}
+
+.enemiesh{
+    margin-left: 50%;
+    font-family: berserk;
+    padding-top: 1%;
+    color: white;
+}
